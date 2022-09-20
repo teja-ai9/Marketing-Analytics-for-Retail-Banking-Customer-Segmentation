@@ -1,0 +1,2 @@
+# Marketing-Analytics-for-Retail-Banking-Customer-Segmentation
+The aim of the project was to launch a targeted marketing campaign for a bank by dividing their customers into distinctive groups based on financial analytics. Exploratory Data Analysis: Performed univariate, bivariate analysis and correlations using Kernel Density Estimate (KDE), seaborn and matplotlib. Statistical Analysis and Scaling. • Machine Learning Models: K- means Clustering, Inverse transformation. • Evaluation: Sum of Squared Error (SSE), Dunn Index(DI).
